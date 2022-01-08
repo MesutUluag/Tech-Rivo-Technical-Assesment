@@ -1,12 +1,12 @@
-package com.devskiller.tasks.blog;
+package com.techrivo.assesment.transformation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BlogApplication {
+public class TransformApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BlogApplication.class, args);
+		SpringApplication.run(TransformApplication.class, args);
 	}
 }
